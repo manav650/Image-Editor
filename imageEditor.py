@@ -3,7 +3,7 @@ import PIL.Image
 from tkinter import *
 from tkinter import messagebox
 from tkinter import ttk
-import basic.imgbasic as imgbsc
+import imgbasic as imgbsc
 
 win = Tk()
 win.title("Image Editor")
