@@ -1,4 +1,4 @@
-# Image-Editor-Using-Pythonn
+# Image-Editor-Using-Python
 This is python based GUI app for Image Editing.
 
 # Prerequisites
